@@ -1,3 +1,3 @@
 # jenkins-azure-vm
 
-Testing github-azure-vm-pipeline build trigger
+Testing github-azure-vm-pipeline build trigger.
